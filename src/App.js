@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Buena los Julis!
+          Buena mis perros
         </p>
         <p>
           que quiere socio!?
@@ -26,3 +26,4 @@ function App() {
 }
 
 export default App;
+
